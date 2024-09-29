@@ -1,4 +1,3 @@
-# lighthouse
 ##  Introduction
 This application streamlines the workflow at Ligthouse Free Medical Clinic at Buffalo. From initial data collection to data entry to multiple systems to getting recommendations for insurance that is personalized for the patient.
 
@@ -32,6 +31,7 @@ You can now use the application in the browser.
 
 	
 	
+
 
 
 
